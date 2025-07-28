@@ -11,7 +11,9 @@ namespace Microsoft.Unity.VisualStudio.Editor
 {
 	internal interface IVisualStudioInstallation
 	{
+		string Name { get; }
 		string Path { get; }
+		bool IsPrerelease { get; }
 		bool SupportsAnalyzers { get; }
 		Version LatestLanguageVersionSupported { get; }
 		string[] GetAnalyzers();
