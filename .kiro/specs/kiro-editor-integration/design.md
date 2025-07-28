@@ -64,7 +64,7 @@ public static IEnumerable<IVisualStudioInstallation> GetVisualStudioInstallation
 
 #### package.json
 Update package metadata:
-- Name: `com.boxqkrtm.ide.kiro`
+- Name: `com.como.ide.kiro`
 - Display Name: "Kiro Editor"
 - Description: Updated to reference Kiro instead of Cursor
 

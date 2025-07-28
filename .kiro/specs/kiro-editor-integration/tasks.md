@@ -6,7 +6,7 @@
 
 
 
-  - Modify package.json to change name from "com.boxqkrtm.ide.cursor" to "com.boxqkrtm.ide.kiro"
+  - Modify package.json to change name from "com.boxqkrtm.ide.cursor" to "com.como.ide.kiro"
   - Update displayName from "Cursor Editor" to "Kiro Editor"
   - Update description to reference Kiro instead of Cursor
   - _Requirements: 6.1, 6.2, 6.4_

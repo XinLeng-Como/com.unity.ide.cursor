@@ -82,7 +82,7 @@ The package automatically creates a `.vscode` folder in your Unity project with:
 
 > **Important Notice for Users Updating from Cursor Integration**  
 > Starting from version **v2.0.25**, this package has been updated to support Kiro instead of Cursor.  
-> The package name has been changed from `com.boxqkrtm.ide.cursor` to `com.boxqkrtm.ide.kiro`.  
+> The package name has been changed from `com.boxqkrtm.ide.cursor` to `com.como.ide.kiro`.  
 > If you were previously using the Cursor integration, please remove the old package before installing this one to avoid conflicts.
 
 ## Contributing

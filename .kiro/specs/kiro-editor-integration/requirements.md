@@ -70,4 +70,4 @@ This feature involves adapting the existing Unity Cursor editor integration pack
 1. WHEN the package is installed THEN the system SHALL display "Kiro Editor" as the package name
 2. WHEN viewing package details THEN the system SHALL show correct version information
 3. WHEN updating the package THEN the system SHALL handle version migrations properly
-4. WHEN the package is listed THEN the system SHALL use the identifier "com.boxqkrtm.ide.kiro"
+4. WHEN the package is listed THEN the system SHALL use the identifier "com.como.ide.kiro"
