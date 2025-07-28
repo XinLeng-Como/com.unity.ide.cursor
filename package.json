@@ -1,5 +1,5 @@
 {
-  "name": "com.boxqkrtm.ide.kiro",
+  "name": "com.como.ide.kiro",
   "displayName": "Kiro Editor",
   "description": "Kiro editor integration for supporting Kiro as code editor for unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, etc.",
   "version": "2.0.25",
