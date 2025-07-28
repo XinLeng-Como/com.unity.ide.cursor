@@ -204,8 +204,9 @@ namespace Microsoft.Unity.VisualStudio.Editor {
 		internal static string GetRealPath(string path) {
 			return path;
 		}
-#endif		public o
-verride void CreateExtraFiles(string projectDirectory) {
+#endif		
+
+public override void CreateExtraFiles(string projectDirectory) {
 			try {
 				var vscodeDirectory = IOPath.Combine(projectDirectory.NormalizePathSeparators(), ".vscode");
 				Directory.CreateDirectory(vscodeDirectory);
